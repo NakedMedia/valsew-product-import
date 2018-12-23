@@ -1,4 +1,5 @@
-# Versa Drain
+# Valsew
+
 ## v1.0.0
 
-This plugin enables clients and employee functionality on WordPress for Versa Drain.
+Tool to import products csv into Woocommerce
